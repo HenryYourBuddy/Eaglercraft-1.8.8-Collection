@@ -8,9 +8,3 @@ Eaglercraft is a great project full of really talented individuals that i do res
 also, i am not afflited with mojang.
 
 have fun
-
-
--Main File:
-HTML file for base game. Double click to play Eaglercraft...
-
-if you didn't know already...
